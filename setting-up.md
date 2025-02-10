@@ -10,6 +10,9 @@ See [this excellent written guide](https://happygitwithr.com/github-acct)
 ## Step 2: Install Git
 [video](https://emckclac-my.sharepoint.com/:v:/g/personal/k1076631_kcl_ac_uk/EaPS1W05FYBIu7sxxUFHL00BUHxOUIxDUBVRBI9H_cCwdg?e=ZNisr9)
 
+<iframe src="https://emckclac-my.sharepoint.com/:v:/g/personal/k1076631_kcl_ac_uk/Edqj5CXgCQlKpC-cOUx3pkMB_z3TNnu1NouM78RqCbnFCQ&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="SettingUpGit-Credentials.webm"></iframe>
+
+
 https://happygitwithr.com/install-git
 
 ## Step 3: Set Credentials
