@@ -7,3 +7,6 @@ Click the links below to access the guides. Start with _Setting Up Git_ if you d
 - [RStudio with Git](rstudio.md)
 - [Visual Studio Code with Git](vsc.md)
 - [Resources](resources.md)
+
+---
+_[James Millington](https://github.com/jamesdamillington), Feb 2025_

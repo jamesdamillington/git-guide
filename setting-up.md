@@ -230,3 +230,6 @@ If everything is correct, you should see the repository URL listed.
 For future operations (push, pull, etc.), Git will use the saved token (in Windows with will be using Windows Credentials, on Mac it will be using OSX Keychain). If authentication fails, repeat the steps to generate and set a new token (you will need to do this every time your PAT expires, if you set an expiry duration).
 
 You're all set! 🎉 Now you can securely work with your private repositories using a Personal Access Token on Windows. 🚀
+
+---
+_[James Millington](https://github.com/jamesdamillington), Feb 2025_
