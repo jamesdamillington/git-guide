@@ -5,17 +5,17 @@
 These guides assume you are using a Windows operating system, but points out where there will be differences for Mac and what that might imply.
 
 There are four steps:
-1. [Get a GitHub Account](#step-1:-get-a-github-account)
-2. [Install Git](#install-git)
-3. [Set Credentials (username and email)](step-3:-set-credentials-(username-and-email))
-4. [Set Personal Access Token](#step-4:-set-personal-access-token) 
+1. [Get a GitHub Account](#step1)
+2. [Install Git](#step2)
+3. [Set Credentials (username and email)](#step3)
+4. [Set Personal Access Token](#step4) 
 
-## Step 1: Get a GitHub Account
+## Step 1: Get a GitHub Account <a name="step1"></a>
 To work with GitHub you will need an account. We do not provide a guide on that here, but see [this excellent written guide](https://happygitwithr.com/github-acct) which makes good suggestions on the key issues and things to think about. 
 
 GitHub also has its own guide [here](https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account).
 
-## Step 2: Install Git
+## Step 2: Install Git <a name="step2"></a>
 James' video on doing this on Windows: 
 [![Watch the video](https://img.youtube.com/vi/SQYWigyBaAw/maxresdefault.jpg)](https://youtu.be/SQYWigyBaAw)
 
@@ -109,7 +109,7 @@ To ensure Git is installed correctly:
 Congratulations! 🎉 Git is now installed on your Windows system.
 
 
-## Step 3: Set Credentials (username and email)
+## Step 3: Set Credentials (username and email) <a name="step3"></a>
 James' video on doing this on Windows: 
 [![Watch the video](https://img.youtube.com/vi/oxPh4szGILs/maxresdefault.jpg)](https://youtu.be/oxPh4szGILs)
 
@@ -171,7 +171,7 @@ git config --list
 This will display a list of all the configuration values Git is using.
 
 
-## Step 4: Set Personal Access Token 
+## Step 4: Set Personal Access Token <a name="step4"></a>
 James' video on doing this on Windows: 
 [![Watch the video](https://img.youtube.com/vi/ftHp2SXnTRM/maxresdefault.jpg)](https://youtu.be/ftHp2SXnTRM)
 
